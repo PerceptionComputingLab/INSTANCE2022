@@ -1,0 +1,13 @@
+wandb
+train_2
+__pycache__
+*.sh
+*.log-*
+foo.py
+*.ipynb
+*.nii.gz
+*.png
+*.gif
+.Dockerfile.swp
+*.tar
+*.zip

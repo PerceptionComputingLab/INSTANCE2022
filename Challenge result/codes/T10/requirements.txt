@@ -1,0 +1,7 @@
+argparse
+nibabel==3.0.1
+numpy==1.21.5
+scipy==1.4.1
+torch==1.11.0
+--extra-index-url https://nic.udg.edu/niclib/wheels/niclib-1.0b0-py3-none-any.whl
+
