@@ -34,6 +34,7 @@ Participants are required to segment Intracranial Hemorrhage region in Non-Contr
 - Opening docker and short paper submission for testing dataset: July 20 (11:59PM GMT), 2022
 - Deadline for docker and short paper submission: Aug 14 (11:59PM GMT), 2022
 - Winner and invitation speakers: September 18 (11:59PM GMT), 2022
+
 ![](https://github.com/PerceptionComputingLab/INSTANCE2022/blob/main/images/image_rXCO79b.png)
 
 ## 🔭Registration
