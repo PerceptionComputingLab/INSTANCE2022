@@ -1,18 +1,16 @@
-![](./images/Logo_页面_1_RCTKLKW.png)
+![](https://github.com/PerceptionComputingLab/INSTANCE2022/blob/main/images/Logo_%E9%A1%B5%E9%9D%A2_1_RCTKLKW.png)
 
-## Important News
+## 🚀Important News
 
-**[NEWS]** 2022/07/19 Extended the evaluation phase to August 7th.
+🎉**NEWS [2022/07/19]:** Extended the evaluation phase to August 7th. You can submit your validation results on the submission page until August 7th. And you can submit your docker and paper from July 20th to August 14th.
 
-You can submit your validation results on the submission page until August 7th. And you can submit your docker and paper from July 20th to August 14th. 
+🎉**NEWS [2022/07/15]:** Validation dataset release. We have sent the data download link via email. If you didn't receive the email, please let us know as soon as possible!
 
-**[NEWS] 2022/07/15 Validation dataset release. We have sent the data download link via email. If you didn't receive the email, please let us know as soon as possible!**
+🎉**NEWS [2022/04/06]:** Training dataset release.
 
-**[NEWS] 2022/04/06 Training dataset release.**
+🎉**NEWS [2022/03/28]:** INSTANCE challenge 2022  is now open for [registration](https://instance.grand-challenge.org/)! Remember to send the [signed document](https://github.com/PerceptionComputingLab/INSTANCE2022/blob/main/Agreements/instance2022_agreements.pdf) to INSTANCE2022@outlook.com for participation.
 
-**[NEWS] 2022/03/28-INSTANCE challenge 2022  is now open for [registration](https://instance.grand-challenge.org/)! Remember to send the [signed document](https://github.com/PerceptionComputingLab/INSTANCE2022/blob/main/Agreements/instance2022_agreements.pdf) to INSTANCE2022@outlook.com for participation.**
-
-## About
+## 🏊‍About
 
 Intracranial hemorrhage (ICH) is a common stroke type and has the highest mortality rate among all stroke types[1]. Early and accurate diagnosis of the ICH is critical for saving patients' lives. In regular clinical practice, Non-Contrast Computed Tomography (NCCT) is the most widely used modality for diagnosing ICH due to its fast acquisition and availability in most emergency departments [2]. In clinical diagnosis procedures, accurately estimating the volume of intracranial hemorrhage is significant for predicting hematoma progression and early mortality [3]. The hematoma volume can be estimated by manually delineating the ICH region by radiologists, which is time-consuming  and suffers from inter-rater variability . The ABC/2 method [4] is widely adopted in clinical practice to estimate hemorrhage volume for its ease of use. However, the ABC/2 method shows significant volume estimation error, especially for those hemorrhages with irregular shapes. Hence, it is necessary to establish a fully-automated segmentation method, which allows accurate and rapid volume quantification of the intracranial hemorrhage. However, it is still challenging to accurately segment the ICH for automatic methods because ICH exhibits large variations in shapes and locations, and has blurred boundarie.
 
@@ -25,10 +23,10 @@ Specifically, we have collected 200 3D volumes with refined labeling from 10 exp
 [3] J. P. Broderick, T. G. Brott, J. E. Duldner, T. Tomsick, and G. Huster, “Volume of intracerebral hemorrhage. A powerful and easy-to-use predictor of 30-day mortality,” Stroke, vol. 24, no. 7, pp. 987–993, Jan. 1993.
 [4] R. U. Kothari et al., “The ABCs of measuring intracerebral hemorrhage volumes,” Stroke, vol. 27, no. 8, pp. 1304–1305, Aug. 1996.
 
-## Task
+## 🏹Task
 Participants are required to segment Intracranial Hemorrhage region in Non-Contrast head CT (NCCT).
 
-## Schedule
+## 🤗Schedule
 - Registration: March 28 (11:59PM GMT), 2022
 - Training dataset release: April 6 (11:59PM GMT), 2022
 - Validation dataset release, open validation leaderboard submission: July 15 (11:59PM GMT), 2022
@@ -36,14 +34,14 @@ Participants are required to segment Intracranial Hemorrhage region in Non-Contr
 - Opening docker and short paper submission for testing dataset: July 20 (11:59PM GMT), 2022
 - Deadline for docker and short paper submission: Aug 14 (11:59PM GMT), 2022
 - Winner and invitation speakers: September 18 (11:59PM GMT), 2022
-![](./images/image_rXCO79b.png)
+![](https://github.com/PerceptionComputingLab/INSTANCE2022/blob/main/images/image_rXCO79b.png)
 
-## Registration
+## 🔭Registration
 Individuals or team members interested in participating in this challenge should carefully study the [challenge rules](https://instance.grand-challenge.org/Participation/) and then follow the instructions to join challenge.
 
 *Please note that by participating in this challenge you are agreeing to all its rules and policies.*
 
-## Award
+## 🏆Award
 1. Successful participation awards, which are electronic certificates, will be awarded to all teams that obtain valid test scores in the challenge leaderboard and complete technical paper submissions reviewed by the organizing committee.
 2. The top-1 team will receive 500 dollars or electronic products with similar prices. The exquisite certificates will be awarded to all members of the Top-1 team.
 3. The team that wins the second place will receive 300 dollars or electronic products with similar prices. The exquisite certificates will be awarded to all members of the Top-2 team.
@@ -52,7 +50,7 @@ Individuals or team members interested in participating in this challenge should
 
 *Noted that we will not award those who refuse to make presentations during MICCAI. However, those participants don't have to show in person, they can send a representative to make the presentations.*
 
-## Citation
+## 🌱 Citation
 If using our dataset, you must cite the following paper:
 
 [1] Li, X., Luo, G., Wang, K., Wang, H., Li, S., Liu, J., Liang, X., Jiang, J., Song, Z., Zheng, C., Chi, H., Xu, M., He, Y., Ma, X., Guo, J., Liu, Y., Li, C., Chen, Z., Siddiquee, M.M., Myronenko, A., Sanner, A.P., Mukhopadhyay, A., Othman, A.E., Zhao, X., Liu, W., Zhang, J., Ma, X., Liu, Q., MacIntosh, B.J., Liang, W., Mazher, M., Qayyum, A., Abramova, V., & Llad'o, X. (2023). The state-of-the-art 3D anisotropic intracranial hemorrhage segmentation on non-contrast head CT: The INSTANCE challenge. ArXiv, abs/2301.03281. [[Arxiv]](https://arxiv.org/abs/2301.03281)
