@@ -8,7 +8,7 @@
 
 🎉**NEWS [2022/04/06]:** Training dataset release.
 
-🎉**NEWS [2022/03/28]:** INSTANCE challenge 2022  is now open for [registration](https://instance.grand-challenge.org)! Remember to send the [signed document](https://github.com/PerceptionComputingLab/INSTANCE2022/blob/main/Agreements/instance2022_agreements.pdf) to INSTANCE2022@outlook.com for participation.
+🎉**NEWS [2022/03/28]:** INSTANCE challenge 2022  is now open for [registration](https://instance.grand-challenge.org )! Remember to send the [signed document](https://github.com/PerceptionComputingLab/INSTANCE2022/blob/main/Agreements/instance2022_agreements.pdf) to INSTANCE2022@outlook.com for participation.
 
 ## 🏊‍About
 
