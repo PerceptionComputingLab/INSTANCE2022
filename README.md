@@ -18,9 +18,9 @@ Therefore, it is significant to propose a challenge to advance the novel automat
 
 Specifically, we have collected 200 3D volumes with refined labeling from 10 experienced radiologists, 100 for the training dataset, 70 for the closed testing dataset, and 30 for the opened validated dataset. DSC, HD, RVD are adopted as evaluation metrics for segmentation. This challenge will also promote intracranial hemorrhage treatment, interactions between researchers, and interdisciplinary communication.
 
-[1] C. J. van Asch, M. J. Luitse, G. J. Rinkel, I. van der Tweel, A. Algra, and C. J. Klijn, “Incidence, case fatality, and functional outcome of intracerebral haemorrhage over time, according to age, sex, and ethnic origin: A systematic review and meta-analysis,” Lancet. Neurol., vol. 9, no. 2, pp. 167–176, Feb. 2010.
-[2] J. N. Goldstein and A. J. Gilson, “Critical care management of acute intracerebral hemorrhage,” Curr. Treat. Option. Neurol., vol. 13, no. 2, pp. 204–216, Jan. 2011.
-[3] J. P. Broderick, T. G. Brott, J. E. Duldner, T. Tomsick, and G. Huster, “Volume of intracerebral hemorrhage. A powerful and easy-to-use predictor of 30-day mortality,” Stroke, vol. 24, no. 7, pp. 987–993, Jan. 1993.
+[1] C. J. van Asch, M. J. Luitse, G. J. Rinkel, I. van der Tweel, A. Algra, and C. J. Klijn, “Incidence, case fatality, and functional outcome of intracerebral haemorrhage over time, according to age, sex, and ethnic origin: A systematic review and meta-analysis,” Lancet. Neurol., vol. 9, no. 2, pp. 167–176, Feb. 2010. 
+[2] J. N. Goldstein and A. J. Gilson, “Critical care management of acute intracerebral hemorrhage,” Curr. Treat. Option. Neurol., vol. 13, no. 2, pp. 204–216, Jan. 2011. 
+[3] J. P. Broderick, T. G. Brott, J. E. Duldner, T. Tomsick, and G. Huster, “Volume of intracerebral hemorrhage. A powerful and easy-to-use predictor of 30-day mortality,” Stroke, vol. 24, no. 7, pp. 987–993, Jan. 1993. 
 [4] R. U. Kothari et al., “The ABCs of measuring intracerebral hemorrhage volumes,” Stroke, vol. 27, no. 8, pp. 1304–1305, Aug. 1996.
 
 ## 🏹Task
